@@ -5,7 +5,8 @@ Understanding these causes through data-driven approaches can help airlines opti
 This study focuses on analyzing historical flight delay data to identify key patterns and develop predictive models. 
 By leveraging data analytics and machine learning, the study aims to provide insights that can help airlines, air traffic controllers, and policymakers make informed decisions to mitigate delays and improve the overall efficiency of air travel.
 
-> ### (Flight Take Off Data - JFK Airport)[https://www.kaggle.com/datasets/deepankurk/flight-take-off-data-jfk-airport]
+> ### [Flight Take Off Data - JFK Airport](https://www.kaggle.com/datasets/deepankurk/flight-take-off-data-jfk-airport)
+> The datset was visualized and preprocessed. Preprocessing techniques included using the Tuckey Fences method of outlier removal, Label Encoding and PCA.
 
 A comparative study was done on the basis of the following models:
 1. Linear Regressor
